@@ -16,5 +16,11 @@
 			"App\\": "app/",
 			"Database\\": "database/"
 		}
+	},
+	"repositories": {
+		"lisa18": {
+			"type": "path",
+			"url": "../swostar"
+		}
 	}
 }

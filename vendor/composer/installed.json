@@ -1,0 +1,26 @@
+[
+    {
+        "name": "lisa18/swostar",
+        "version": "v1.0",
+        "version_normalized": "1.0.0.0",
+        "dist": {
+            "type": "path",
+            "url": "../swostar",
+            "reference": "e6fed3db35382b3d6b2d51659ef59783019255e3"
+        },
+        "require": {
+            "php": ">7.0"
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "SwoStar\\": "src/"
+            }
+        },
+        "license": [
+            "MIT"
+        ],
+        "description": "swostar"
+    }
+]
