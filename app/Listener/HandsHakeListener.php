@@ -46,7 +46,7 @@ class HandsHakeListener extends Listener
 		}
 	}
 	/**
-	* websocke的加密算法
+	* websocket的加密算法
 	* 
 	*/
 	protected function handShake($request, $response)
